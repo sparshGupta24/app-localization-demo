@@ -1,0 +1,14 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "Current Language Name"
+    },
+    "title": "Flutter Demo Home Page",
+    "@title":{
+        "description": "App Title"
+    },
+    "body": "You have pushed the button this many times:",
+    "@body":{
+        "description": "Counter text"
+    }
+}
